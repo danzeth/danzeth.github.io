@@ -28,7 +28,7 @@ nav {
 }
 
 .nav-link {
-  margin: 21px;
+  margin-inline: 21px;
 }
 
 .site-logo {
